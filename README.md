@@ -57,7 +57,7 @@ Clone the project and run it locally:
       VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 ### 🌐 Live Demo
     👉 Live Jobify App
-    <a href='https://jobify-three-wine.vercel.app/'>Click here</a>
+ <a href='https://jobify-three-wine.vercel.app/'>Click here</a>
 
 ### 👩‍🎓 Author
       Made with ❤️ by ***Siddhi Nagapure***
